@@ -1,0 +1,13 @@
+body {
+  width: 100%;
+  height: 5px;
+  background-color: green;
+}
+
+#heading {
+  background-color: black;
+}
+#heading p {
+  color: white;
+}
+
